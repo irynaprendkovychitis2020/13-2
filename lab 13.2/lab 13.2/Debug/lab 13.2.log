@@ -1,0 +1,4 @@
+﻿  lab 13.2.cpp
+C:\Users\computer\Desktop\лаби ап\лаб 13\lab 13.2\lab 13.2\lab 13.2\lab 13.2.cpp(18,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\computer\Desktop\лаби ап\лаб 13\lab 13.2\lab 13.2\lab 13.2\lab 13.2.cpp(42,3): warning C4129: : неизвестная escape-последовательность
+  lab 13.2.vcxproj -> C:\Users\computer\Desktop\лаби ап\лаб 13\lab 13.2\lab 13.2\Debug\lab 13.2.exe
